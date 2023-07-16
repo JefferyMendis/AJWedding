@@ -1206,11 +1206,11 @@ form {
 			figure{
 				margin-bottom: 10px;
 				@include inline-block;
-				width: 100px;
-				height: 100px;
+				width: 125px;
+				height: 125px;
 				img {
-					width: 100px;
-					height: 100px;
+					width: 125px;
+					height: 125px;
 					@include border-radius(50%);
 				}
 			}
